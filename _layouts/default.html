@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+
   <body>
     <div class="page-content">
       <div class="wrapper">
+        <br>
+        <p class="page-title">{{ page.title }}</p>
+        <div align="center">
+          <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </div>
         {{ content }}
       </div>
     </div>
