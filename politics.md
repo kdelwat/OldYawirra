@@ -5,12 +5,22 @@ title: Politics
 
 Hello. *Hello*. **Hello**. 
 
-> What if your legs, didn't know they were legs?
+This is a text with a
+footnote[^1].
 
-| a | c | v |
-|---|---|---|
-| a | 3 | 5 |
-| 4 | 5 | 6 |
+[^1]: And here is the definition.
+
+| Party                      | National Vote | Seats  | True Percentage |
+|----------------------------|--------------:|-------:|----------------:|
+| Socialist-Democratic Party | 26.9%         | 95     | 28.61%          |
+| Worker's Alliance Party    | 10.1%         | 34     | 10.24%          |
+| Conservative Party         | 21.7%         | 65     | 19.58%          |
+| Pirate Party               | 5.8%          | 12     | 3.61%           |
+| Libertarians               | 4.2%          | 3      | 0.90%           |
+| Agrarian Party             | 23.0%         | 99     | 29.82%          |
+| Green Party                | 8.3%          | 24     | 7.23%           |
+|===
+| Total                  | 100.0%    | 332 | 100.00%    |
 
 Yesterday's constitutional referendum has delivered a resounding rebuke to
 Charles De Gaulle and his French Fifth Republic, with 67% of the Federation

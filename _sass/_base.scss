@@ -105,6 +105,19 @@ a {
         text-decoration: underline;
     }
 }
+a.footnote {
+    color: $text-color;
+    text-decoration: none;
+
+    &:visited {
+        color: $text-color;
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
 
 
 

@@ -10,6 +10,20 @@ a.site-title {
         font-style: italic;
 }
 
+.start-title {
+    font-size: 70px;
+    font-weight: 300;
+        line-height: 40px;
+    text-align: center;
+}
+
+.sub-title {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    font-style: italic;
+}
+
 .page-title {
     text-align: center;
     font-size: 80px;
@@ -19,7 +33,19 @@ a.site-title {
 }
 
 table {
-    font-size: 50px;
-        margin-left:auto; 
+    margin-left:auto; 
     margin-right:auto;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-collapse: separate;
+    border-spacing: 40px 0;
+}
+
+thead{
+    font-style: italic;
+
+}
+
+tfoot {
+    font-weight: bold;
 }

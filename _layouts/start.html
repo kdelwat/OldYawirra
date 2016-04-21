@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+        <br>
+        <p class="start-title">{{ site.title }}</p>
+        <p class="sub-title">{{ site.description }}</p>
+
+        {{ content }}
+      </div>
+    </div>
+  </body>
+</html>
