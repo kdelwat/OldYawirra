@@ -70,6 +70,7 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    counter-reset: item;
 }
 
 li {
@@ -79,6 +80,8 @@ li {
     }
 }
 
+li { display: block }
+li:before { content: counters(item, ".") " - "; counter-increment: item }
 
 
 /**

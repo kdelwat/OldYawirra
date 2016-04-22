@@ -103,3 +103,6 @@ thead{
 tfoot {
     font-weight: bold;
 }
+OL { counter-reset: item }
+LI { display: block }
+LI:before { content: counters(item, ".") " "; counter-increment: item }
