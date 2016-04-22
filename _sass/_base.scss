@@ -81,7 +81,7 @@ li {
 }
 
 li { display: block }
-li:before { content: counters(item, ".") " - "; counter-increment: item }
+li:before { content: counters(item, ".") " "; counter-increment: item }
 
 
 /**
