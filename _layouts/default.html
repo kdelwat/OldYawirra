@@ -6,11 +6,17 @@
   <body>
     <div class="page-content">
       <div class="wrapper">
+        <table class="header-table">
+          <tr>
+           <th><a class="site-title" href="{{ site.baseurl }}/">Home&nbsp</a></th>
+           <th>§</th>
+           <th> <a class="site-title" href="{{ site.baseurl }}/contents.html">Contents</a></th>
+          </tr>
+        </table>
+        
         <br>
         <p class="page-title">{{ page.title }}</p>
-        <div align="center">
-          <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        </div>
+        <br><br>
         {{ content }}
       </div>
     </div>
