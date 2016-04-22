@@ -142,3 +142,5 @@ native population overwhelmingly voted for independence, with 92.2% voting
 against De Gaulle's constitution, whereas the white vote was 59.0% against.
 However, fears of heightened racial tensions have been nullified by the fact
 that both black and white delivered a majority in favour of independence.
+
+Now ain't that snazzy?
