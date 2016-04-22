@@ -5,6 +5,63 @@ title: Politics
 
 Hello. *Hello*. **Hello**. 
 
+# H1 header
+
+## H2 header
+
+### H3 header
+
+#### H4 header
+
+##### H5 header
+
+###### H6 header
+
+> A sample blockquote.
+>
+> >Nested blockquotes are
+> >also possible.
+>
+> ## Headers work too
+> This is the outer quote again.
+
+* * *
+
+---
+
+  _  _  _  _
+
+---------------
+
+1. This is a list item
+2. And another item
+2. And the third one
+   with additional text
+
+1. Item one
+   1. sub item one
+   2. sub item two
+   3. sub item three
+2. Item two
+
+* This is a list item
+* And another item
+* And the third one
+   with additional text
+
+term
+: definition
+: another definition
+
+another term
+and another term
+: and a definition for the term
+
+This is an HTML
+example.
+
+*[HTML]: Hyper Text Markup Language
+
 This is a text with a
 footnote[^1].
 
