@@ -11,7 +11,7 @@ email: cadel@cadelwatson.com
 description: > # this means to ignore newlines until "baseurl:"
   A worldbuilding project by Cadel Watson
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cadelwatson.com" # the base hostname & protocol for your site
+url: "https://cadelwatson.com" # the base hostname & protocol for your site
 github_username:  kdelwat
 
 # Build settings
