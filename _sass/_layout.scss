@@ -25,12 +25,24 @@ a.site-title {
     -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
     -moz-column-gap: 40px; /* Firefox */
     column-gap: 40px;
-} 
+
+  @media screen and (max-width: $content-width) {
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+    
+    -webkit-column-gap: 0px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 0px; /* Firefox */
+    column-gap: 0px;
+  }
+}
 
 .image {
     overflow: hidden;
     break-inside: avoid-column;
     -webkit-column-break-inside: avoid;
+    border: 0px solid $grey-color;
+
 }
 
 .contents-image {

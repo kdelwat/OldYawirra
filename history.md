@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Politics
+title: History
 ---
 
 Hello. *Hello*. **Hello**. 
