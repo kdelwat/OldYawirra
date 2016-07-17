@@ -17,7 +17,7 @@ from 1832 to 1834 against the harsh license requirements was accompanied by acts
 of sabotage against French government property, sparking accusations by France
 that the British government was deliberately inflaming the tensions.
 
-*Main Article:* [Massacre of Wiranumba]({{ site.url}}/massacreofwiranumba.html).
+*Main Article:* [Massacre of Wiranumba](/history/massacreofwiranumba.html).
 
 The protests came to a head on the 4th of February, 1934, when a group of 40
 British miners seized the goldfields administration offices in Wiranumba.

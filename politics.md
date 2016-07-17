@@ -37,7 +37,7 @@ declaration of war.
 
 # Legislative
 
-[Political Parties](/PoliticalParties.html)
+[Political Parties](/politics/PoliticalParties.html)
 
 The legislative branch is comprised of a bicameral parliament, with a lower
 house called the Legislative Assembly and an upper house called the National
