@@ -37,7 +37,7 @@ declaration of war.
 
 # Legislative
 
-[Political Parties](/politics/parties.html)
+*See also:* [Political parties](/politics/parties.html)
 
 The legislative branch is comprised of a bicameral parliament, with a lower
 house called the Legislative Assembly and an upper house called the National
@@ -70,6 +70,8 @@ the nation are given a vote, whereas in others only members of the Council may
 decide.
 
 # Current Government
+
+*Main article:* [Political parties](/politics/parties.html)
 
 The President of Yawirra is Simone Montpasse, chosen by the Parliament for,
 according to the Prime Minister:
